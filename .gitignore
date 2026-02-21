@@ -21,9 +21,6 @@ env/
 .env.local
 .env.*.local
 
-# One-time scripts (don't commit to prod)
-seed_admin.py
-
 # ---------------------------
 # Node / Frontend
 # ---------------------------
